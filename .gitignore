@@ -1,0 +1,7 @@
+deployment/
+.classpath
+.svn/
+.idea/
+.project
+.mendix-cache/
+*.bak
